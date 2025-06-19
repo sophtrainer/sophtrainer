@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Privacy Policy - SophTrainer</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=League+Spartan&display=swap');
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background-color: #fff;
+    color: #222;
+    margin: 2rem;
+    max-width: 700px;
+    line-height: 1.6;
+  }
+
+  h1 {
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  h2 {
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+  }
+
+  p {
+    margin: 0.5rem 0;
+  }
+
+  ul {
+    margin-left: 1.2rem;
+  }
+
+  .note {
+    font-style: italic;
+    margin-top: 1rem;
+  }
+
+  a {
+    color: #177E89;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  header {
+    border-bottom: 1px solid #eee;
+    padding: 8px 0;
+    margin-bottom: 1.5rem;
+  }
+
+  header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+    width: 100%;
+  }
+
+  header img {
+    height: 40px;
+    width: auto;
+    border-radius: 4px;
+  }
+
+  header span {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    margin-left: auto;
+  }
+</style>
+</head>
+<body>
+<header>
+  <a href="https://sophtrainer.carrd.co" aria-label="Home">
+    <img src="https://i.postimg.cc/QtVM70bM/IMG-3443.png" alt="Soph Trainer Logo" />
+    <span>Home</span>
+  </a>
+</header>
+
+  <h1>Privacy Policy</h1>
+  <p><strong>Last updated:</strong> 3rd June 2025</p>
+
+  <p>We collect basic personal info (like your name, Instagram handle, phone number, or email) only when you share it with us. For example, to get in touch, start training, or follow up.</p>
+
+  <h2>What we collect</h2>
+  <ul>
+    <li>Name, contact info (email, phone, @handle)</li>
+    <li>Info you provide through forms (like training goals)</li>
+  </ul>
+
+  <h2>How we use it</h2>
+  <ul>
+    <li>To contact you about your training</li>
+    <li>To improve your experience</li>
+    <li>To support your goals with the right tools and info</li>
+    <li>To send marketing emails, updates, and special offers (you can unsubscribe anytime)</li>
+  </ul>
+
+  <h2>We don’t:</h2>
+  <ul>
+    <li>Sell your info</li>
+    <li>Share it with third parties</li>
+    <li>Spam you</li>
+  </ul>
+
+  <p>You can ask for your info to be deleted or updated any time, just send a message.</p>
+
+  <p class="note">If you have questions, DM <a href="https://instagram.com/sophtrainer" target="_blank" rel="noopener noreferrer">@sophtrainer</a> or email <a href="mailto:info@sophtrainer.com">info@sophtrainer.com</a>.</p>
+</body>
+</html>
